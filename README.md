@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Renan Rosental</h1>
-<h3 align="center">I'm a brand new data scientist, arriving in the data area after many years of experience in the food industry 🧑‍🏭. I am a Food Engineer, with a lot of experience in managing processes, projects and people. I have an MBA in Business Management and also have knowledge in Lean Six Sigma</h3>
+<h1 align="center">Hello 🤙, I'm Renan Rosental</h1>
+<h3 align="center">I'm a brand new data scientist 🐣, giving my first steps 🐾 in the data area after many years of experience in the food industry 🏭. 
+  I am a Food Engineer, with a lot of experience in managing processes, projects and people. I have an MBA in Business Management and also have knowledge in Lean Six Sigma.</h3>
 
 - 🔭 I’m currently working on **developing my Python and SQL skills.**
 
-- 🌱 I’m currently learning **Data Science on TripleTen bootcamp, and now I'm ready!**
+- 📊 I’m currently learning **Data Science on TripleTen bootcamp...🔜!**
 
 - 👯 I’m looking to collaborate on **projects in which I can contribute with my experience and knowledge and, at the same time, develop my skills.**
 
@@ -11,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rosental14](https://github.com/Rosental14)
 
-- 💬 Ask me about **Football ⚽/ Music 🎸/ Yoga 🤸‍♂️/ or... Data Science**
+- 💬 Ask me about **Football ⚽/ Music 🎸/ Yoga 🤸‍♂️/ or... Data 🎲**
 
 - 📫 How to reach me **renan.engal@gmail.com**
 
