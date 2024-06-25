@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🤙, I'm Renan Rosental</h1>
-<h3 align="center">I'm a brand new data scientist 🐣, giving my first steps 🐾 in the data area after many years of experience in the food industry 🏭. 
+<h3 align="center">I'm a brand new data scientist 🐣, giving my first steps in the data area after many years of experience in the food industry 🏭. 
   I am a Food Engineer, with a lot of experience in managing processes, projects and people. I have an MBA in Business Management and also have knowledge in Lean Six Sigma.</h3>
 
 - 🔭 I’m currently working on **developing my Python and SQL skills.**
