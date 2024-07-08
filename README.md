@@ -1,5 +1,5 @@
 <h1 align="center">  Bem vindo, 🤙 sou o Renan Rosental </h1>
-<h3 align="center">Sou um cara apaixonado por futebol, por aprender coisas novas, experimentar comidas, conhecer lugares e agora, por dados. </h3>
+<h3 align="center">Sou um cara apaixonado por futebol, por aprender coisas novas, experimentar comidas, conhecer lugares e por dados. </h3>
 
 - 🥅 Estou chegando na área, é só cruzar que é gol. **Finalizando o bootcamp da TripleTen e me tornando um Cientista de Dados de verdade... aí é correr pro abraço.**
 <br>
