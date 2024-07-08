@@ -7,16 +7,16 @@
 - 👷‍♂️ Sou Engenheiro de Alimentos e tenho mais de 10 anos de experiência na área industrial. Também cursei uma MBA em Gestão de Negócios e sou Black Belt em Lean Six Sigma, o que irá contribuir bastante para que eu possa fazer boas análises.
 <br>
 
-- 👯 Espero colaborar com a mais variada gama de projetos para que eu possa desenvolver minhas habilidades **mas meu foco neste início será explorar projetos relacionados ao esporte.**
+- 👯 Espero colaborar com a mais variada gama de projetos para que eu possa desenvolver minhas habilidades **mas meu foco neste início será explorar projetos relacionados à indústria e ao esporte.**
 <br>
 
-- ⚽ Procuro por pessoas que tenham o mesmo interesse **e que possam contribuir com dicas desse nicho... o tal do futebol.**
+- ⚽ Procuro por pessoas que tenham os mesmos interesses **e que possam contribuir com projetos desses nichos...**
 <br>
 
 - 🎲 Todos os meus projetos estão disponíveis aqui no [https://github.com/Rosental14](https://github.com/Rosental14)
 <br>
 
-- 💬 Fale comigo sobre **trabalho, dados, futebol e esportes em geral, meditação, yoga 🧘‍♂️ e sobre você, se quiser desabafar.**
+- 💬 Fale comigo sobre **trabalho, dados, futebol e esportes em geral, meditação, yoga 🧘‍♂️ ...e sobre você, se quiser.**
 <br>
 
 - 📫 Pode me encontrar pelo e-mail renan.engal@gmail.com
